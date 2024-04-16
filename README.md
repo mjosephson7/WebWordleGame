@@ -12,8 +12,7 @@ Color Cues: After each guess, the color of the tiles will change to show how clo
 * Gray: Incorrect letter.
 Winning: Solve the puzzle in six tries or fewer to win. Fail, and the correct word will be revealed!
 
-Installation
-To set up the game locally:
+
 
 **Running the game:**
 
